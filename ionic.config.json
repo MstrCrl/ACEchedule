@@ -1,0 +1,7 @@
+{
+  "name": "ACEchedule",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
